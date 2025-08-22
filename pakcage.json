@@ -1,0 +1,16 @@
+{
+  "name": "bot-ntlkafan",
+  "version": "1.0.0",
+  "description": "بوتك الأسطوري يعمل على Render 🔥",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
